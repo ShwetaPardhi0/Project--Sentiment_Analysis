@@ -1,0 +1,19 @@
+
+---
+
+### 📦 3. `requirements.txt` File
+
+Create a file named `requirements.txt` and paste:
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+textblob
+scikit-learn
+vaderSentiment
+transformers
+torch
+jupyter
