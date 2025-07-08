@@ -58,5 +58,5 @@ Sentiment predictions were cross-validated using actual star ratings to measure 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-nlp.git
-   cd sentiment-analysis-nlp
+   git clone https://github.com/ShwetaPardhi0/Sentiment-Analysis-nlp.git
+   cd Sentiment-Analysis-nlp
